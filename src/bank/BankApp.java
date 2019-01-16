@@ -40,6 +40,6 @@ public class BankApp {
 				System.out.println("Var vänlig och ange en giltig tjänst.");
 			}
 		}
-		System.out.print("Välkommen åter!");
+		System.out.print(" Välkommen åter!");
 	}
 }
